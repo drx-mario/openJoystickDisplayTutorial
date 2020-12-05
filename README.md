@@ -1,6 +1,6 @@
 # Custom Open Joystick Display Theme Tutorial
 
-Note that the official [theme development documentation on the Open Joystick Display repository](https://github.com/KernelZechs/open-joystick-display/blob/master/docs/theme-development.md) goes into much greater detail than this document, and are a fantastic reference. The goal of this doc is to get you started with a minimal setup quickly so that you learn the basics. Once you're comfortable with setting up a basic theme, I highly recommend checking out the OJD documentation.
+Note that the official [theme development documentation on the Open Joystick Display repository](https://github.com/KernelZechs/open-joystick-display/blob/master/docs/theme-development.md) goes into much greater detail than this document, and it's a fantastic reference. The goal of this doc is to get you started with a minimal setup quickly so that you learn the basics. Once you're comfortable with setting up a basic theme, I highly recommend checking out the OJD documentation.
 
 This document will help you get set up with a minimal SNES-style controller input display custom theme. Note that this description will be based on a Windows OS, but I believe the steps would be similar for Mac or Linux as well.
 
