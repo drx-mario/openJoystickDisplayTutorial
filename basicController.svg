@@ -115,7 +115,7 @@
        inkscape:label="leftBtn" />
     <circle
        style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:1.58258593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       ojd-button="X"
+       ojd-button=""
        class="snes-button"
        id="path4182"
        cx="312.31006"
@@ -124,7 +124,7 @@
        transform="matrix(0.72014014,0.69382863,-0.72014014,0.69382863,0,0)" />
     <circle
        style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:1.58258593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       ojd-button="Y"
+       ojd-button=""
        class="snes-button"
        id="yBtn"
        cx="343.15158"
@@ -134,7 +134,7 @@
        inkscape:label="yBtn" />
     <circle
        style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:1.58258593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       ojd-button="A"
+       ojd-button=""
        class="snes-button"
        id="aBtn"
        cx="367.689"
@@ -144,7 +144,7 @@
        inkscape:label="aBtn" />
     <circle
        style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:1.58258593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       ojd-button="B"
+       ojd-button=""
        class="snes-button"
        id="bBtn"
        cx="399.8627"
