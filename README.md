@@ -7,7 +7,7 @@ This document will help you get set up with a minimal SNES-style controller inpu
 ## Required Software
 
 - [Open Joystick Display](http://kernelzechs.com/open-joystick-display/)
-- A vector graphics program - [Inkscape](https://inkscape.org/) is free and excellent
+- A vector graphics program - [Inkscape](https://inkscape.org/) is free and excellent, but if you're familiar with Illustrator or CorelDraw those will work as well.
 - A plaintext editor - I prefer [Notepad++](https://notepad-plus-plus.org/downloads/) or [Sublime](https://www.sublimetext.com/). Note that word processors like Microsoft Word will _not_ work for this.
 
 ## Steps
