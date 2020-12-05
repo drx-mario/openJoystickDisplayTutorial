@@ -1,0 +1,21 @@
+.theme {
+	position:relative;
+	top:0px;
+	left:0px;
+}
+
+.snes-button.active{
+	fill:#361e57 !important;
+}
+.snes-label.active{
+	fill:#361e57 !important;
+}
+.snes-label.active *{
+	fill:#361e57 !important;
+}
+.snes-label-contrast.active{
+	fill:white !important;
+}
+.snes-label-contrast.active *{
+	fill:white !important;
+}
