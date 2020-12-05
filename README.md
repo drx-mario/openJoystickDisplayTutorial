@@ -19,20 +19,20 @@ This document will help you get set up with a minimal SNES-style controller inpu
 3. Within the `themes` directory, create another directory that will contain your theme. For now call this `myTheme` (so eg: `C:\Users\DrMario\Documents\Streaming\open-joystick-display-2.8.0-x64-windows\themes\myTheme`). You can change this name later when you understand how the pieces fit together.
 
 4. Download and save the following files into your `myTheme` directory:
-    - [theme.json](https://raw.githubusercontent.com/drx-mario/openJoystickDisplayTutorial/main/theme.json)
-    - [theme.html](https://raw.githubusercontent.com/drx-mario/openJoystickDisplayTutorial/main/theme.html)
-    - [theme.css](https://raw.githubusercontent.com/drx-mario/openJoystickDisplayTutorial/main/theme.css)
-    - [basicController.svg](https://raw.githubusercontent.com/drx-mario/openJoystickDisplayTutorial/main/basicController.svg)
+    - [theme.json](https://raw.githubusercontent.com/drx-mario/openJoystickDisplayTutorial/main/theme.json) - this is what sets up the name of your theme
+    - [theme.html](https://raw.githubusercontent.com/drx-mario/openJoystickDisplayTutorial/main/theme.html) - this is what tells OJD where the image to use with your theme is
+    - [theme.css](https://raw.githubusercontent.com/drx-mario/openJoystickDisplayTutorial/main/theme.css) - this is what tells OJD what to do when a button is active
+    - [basicController.svg](https://raw.githubusercontent.com/drx-mario/openJoystickDisplayTutorial/main/basicController.svg) - this is the image that you'll see in your overlay
 
 5. Launch `Open Joystick Display.exe` from the directory you unzipped it into. Once OJD loads, click the 'Select Folder' button in the 'Profile Theme' section on the left side of the window, then select the `themes` folder you created earlier (NOT the `myTheme` folder).
 
-6. Click on the 'Theme:' drop-down menu on the left side of the window and scroll down to the bottom of the list. You should see 'User Themes:' and then 'My First Theme'. Click on this, and you should see the grey controller template image load.
+6. Click on the 'Theme:' drop-down menu on the left side of the window and scroll down to the bottom of the list. You should see 'User Themes:' and then 'My First Theme'. Click on this, and you should see the grey controller template image from "basicController.svg".
 
 7. The next step will vary depending on what controller mapping you're using, but you'll need to find your correct controller in the drop down under 'Profile Mapping'. Many common controllers (PS4, iBuffalo, XBox 360) have pre-assigned button mappings you can choose from this list. If you need to customize your button mappings, please consult the Open Joystick Display docs.
 
 8. Once you've selected your controller, press a few directions on the D-pad. You should see the corresponding buttons light up on the display. 
 
-9. Now try pressing some of the buttons. Nothing's happening, why not? Well, we need to tell OJD which parts of the image to light up when buttons are pressed. 
+9. Now try pressing some of the other buttons, like X or A (depending on your controller). Nothing's happening, why not? Well, we need to tell OJD which parts of the image to light up when buttons are pressed. 
     - Press the button on your controller you'd like to map to the bottom left position of the image (eg: Y on SNES, Square on PS4, etc). Notice what happens in the 'Input Tester' section of OJD (bottom center). One of the numbered circles should light up in the 'Buttons' section. Now look on the right side of the window and see where the number of that button is, and what the value in the "Label" column next to that button's number is. For example you might see the button "2" light up, and next to "2" on the right side of the window you might see "Y" in the "Label" column. Remember this 'Label' value!
     - Open up the basicController.svg file in your text editor, like notepad++. Now search for "id="yBtn". You should find the following code:
     ```
