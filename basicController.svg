@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="basicController.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="142.87442"
+     inkscape:cy="886.28589"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3440"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#cccccc;stroke-width:2.80991459;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4355"
+       width="530.01508"
+       height="224.44395"
+       x="15.057245"
+       y="14.840494"
+       ry="24.884127" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ojd-button="SELECT"
+       class="snes-button"
+       id="selBtn"
+       width="84.852814"
+       height="13.637059"
+       x="185.35284"
+       y="209.89499"
+       ry="6.8185296"
+       inkscape:label="#rect4257" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ojd-button="START"
+       class="snes-button"
+       id="startBtn"
+       width="84.852814"
+       height="13.637059"
+       x="291.92392"
+       y="209.13736"
+       ry="6.8185296"
+       inkscape:label="startBtn" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 128.04982,37.79677 0,46.59615 29.34974,29.34973 29.45231,-29.45161 0,-46.49427 -58.80205,0 z"
+       ojd-button="UP"
+       class="snes-button"
+       id="upBtn"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.85187,197.13527 0,-46.59615 -29.34974,-29.34974 -29.45231,29.45162 0,46.49427 58.80205,0 z"
+       ojd-button="DOWN"
+       class="snes-button"
+       id="downBtn"
+       inkscape:connector-curvature="0"
+       inkscape:label="downBtn" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 236.88923,87.99171 -46.59615,0 -29.34974,29.34973 29.45162,29.45231 46.49427,0 0,-58.80204 z"
+       ojd-button="RIGHT"
+       class="snes-button"
+       id="rtBtn"
+       inkscape:connector-curvature="0"
+       inkscape:label="rtBtn" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 77.708313,146.79375 46.596147,0 29.34973,-29.34974 -29.45161,-29.4523 -46.494267,0 0,58.80204 z"
+       ojd-button="LEFT"
+       class="snes-button"
+       id="leftBtn"
+       inkscape:connector-curvature="0"
+       inkscape:label="leftBtn" />
+    <circle
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:1.58258593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ojd-button="X"
+       class="snes-button"
+       id="path4182"
+       cx="312.31006"
+       cy="-189.16418"
+       r="35.890789"
+       transform="matrix(0.72014014,0.69382863,-0.72014014,0.69382863,0,0)" />
+    <circle
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:1.58258593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ojd-button="Y"
+       class="snes-button"
+       id="yBtn"
+       cx="343.15158"
+       cy="-117.33107"
+       r="35.890789"
+       transform="matrix(0.72014014,0.69382863,-0.72014014,0.69382863,0,0)"
+       inkscape:label="yBtn" />
+    <circle
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:1.58258593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ojd-button="A"
+       class="snes-button"
+       id="aBtn"
+       cx="367.689"
+       cy="-244.54303"
+       r="35.890789"
+       transform="matrix(0.72014014,0.69382863,-0.72014014,0.69382863,0,0)"
+       inkscape:label="aBtn" />
+    <circle
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:1.58258593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ojd-button="B"
+       class="snes-button"
+       id="bBtn"
+       cx="399.8627"
+       cy="-174.04222"
+       r="35.890789"
+       transform="matrix(0.72014014,0.69382863,-0.72014014,0.69382863,0,0)"
+       inkscape:label="bBtn" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ojd-button="R"
+       class="snes-button"
+       id="rBtn"
+       width="157.73996"
+       height="25.91506"
+       x="38.596046"
+       y="-523.28632"
+       ry="3.3966343"
+       inkscape:label="rBtn"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:#cccccc;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ojd-button="L"
+       class="snes-button"
+       id="lBtn"
+       width="157.73996"
+       height="25.91506"
+       x="38.596046"
+       y="-62.758305"
+       ry="3.3966343"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:label="lBtn" />
+  </g>
+</svg>
